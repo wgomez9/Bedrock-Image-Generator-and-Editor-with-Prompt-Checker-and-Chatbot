@@ -11,7 +11,7 @@ Here's how you can use this application:
 7. For a simplified experience, try Titan Image Chat Editor to use mask prompts
 8. Manage your automatically saved sessions for each of your projects
 
-You can iterate through these steps as many times as you like, refining your image until you achieve the desired result.
+> Note: You can iterate through these steps as many times as you like, refining your image until you achieve the desired result.
 
 ## Model Overview
 🚀 Stability.ai SDXL 1.0 Image Generator
@@ -46,7 +46,7 @@ Features:
 - Image Strength: Adjustable from 0 to 1 for image variations
 - Clip Guidance Preset: Controls how the model uses CLIP to guide the image generation
 
-SDXL 1.0 represents a significant leap in image generation technology, offering users control and quality in their creative processes.
+> Note: SDXL 1.0 represents a significant leap in image generation technology, offering users control and quality in their creative processes.
 
 🦾 Amazon Titan Image Generator G1
 
@@ -78,7 +78,7 @@ Features:
 - Similarity Strength: Adjustable from 0.2 to 1.0 for image variations
 - Outpainting Modes: Offers 'Default' and 'Precise' options
 
-Titan Image Generator G1 is engineered to meet the diverse needs of businesses and developers, offering a balance of powerful features and enterprise-grade reliability.
+> Note: Titan Image Generator G1 is engineered to meet the diverse needs of businesses and developers, offering a balance of powerful features and enterprise-grade reliability.
 
 ## 🖼️ Sample Outputs
 
