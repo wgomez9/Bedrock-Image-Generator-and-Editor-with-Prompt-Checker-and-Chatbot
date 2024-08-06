@@ -13,7 +13,6 @@ In the docker_app folder, you will find the streamlit app.
 # To deploy:
 
 1. Manually create an S3 bucket on the AWS Console
-
 2. Download files from this GitLab and extract zip file
 4. Create a Cloud9 environment on the AWS Console
 5. Use AWS Configure on the terminal to add your AWS credentials/access keys
