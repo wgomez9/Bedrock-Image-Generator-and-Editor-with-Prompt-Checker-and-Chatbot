@@ -1,4 +1,4 @@
-#Bedrock Image Generator and Editor with Prompt Checker and Chatbot
+# Bedrock Image Generator and Editor with Prompt Checker and Chatbot
 Welcome to our AWS Bedrock image generation application. This tool allows you to explore and compare two powerful AI image generation models: Stability.ai's SDXL 1.0 Image Generator and Amazon's Titan Image Generator G1. Both are available through AWS Bedrock, providing advanced image generation capabilities.
 Here's how you can use this application:
 
@@ -13,7 +13,7 @@ Here's how you can use this application:
 
 You can iterate through these steps as many times as you like, refining your image until you achieve the desired result.
 
-#Additonal Features
+## Additonal Features
 🤖 Claude Chatbot Assistant
 Our Claude Chatbot Assistant is designed to enhance your image generation experience:
 
