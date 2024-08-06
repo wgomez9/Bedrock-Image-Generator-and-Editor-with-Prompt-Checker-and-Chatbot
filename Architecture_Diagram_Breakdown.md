@@ -4,7 +4,7 @@ This document provides an overview of the architecture for our AI image generati
 
 ## Architecture Overview
 
-![Architecture Diagram](architecture diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 Our application leverages several AWS services to provide a scalable, secure, and efficient AI image generation platform. Here's a breakdown of each component:
 
