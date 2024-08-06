@@ -11,7 +11,7 @@ Here's how you can use this application:
 7. For a simplified experience, try Titan Image Chat Editor to use mask prompts
 8. Manage your automatically saved sessions for each of your projects
 
-> Note: You can iterate through these steps as many times as you like, refining your image until you achieve the desired result.
+You can iterate through these steps as many times as you like, refining your image until you achieve the desired result.
 
 ## Model Overview
 🚀 Stability.ai SDXL 1.0 Image Generator
