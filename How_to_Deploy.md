@@ -21,18 +21,14 @@ In the docker_app folder, you will find the streamlit app.
 7. Edit cdk/cdk_stack.py, under s3_policy replace the ##S3PLACEHOLDER## with your S3 bucket name.
 8. Install dependencies on the terminal with these commands
 
-'''
 - python3 -m venv .venv
 - source .venv/bin/activate
 - pip install -r requirements.txt
-'''
 
 10. Deploy the CDK Template on the terminal with these commands
 
-'''
 - cdk bootstrap
 - cdk deploy
-'''
 
 12. Once deployed, make a note of the output, in which you will find the CloudFront distribution URL and the Cognito user pool id.
 13. Create a user in the Cognito UserPool that has been created from the AWS Console.
