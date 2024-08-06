@@ -20,6 +20,7 @@ In the docker_app folder, you will find the streamlit app.
 6. Edit docker_app/config_file.py, create a STACK_NAME and a CUSTOM_HEADER_VALUE. Replace the ##S3PLACEHOLDER## with the name of the S3 bucket created.
 7. Edit cdk/cdk_stack.py, under s3_policy replace the ##S3PLACEHOLDER## with your S3 bucket name.
 8. Install dependencies on the terminal with these commands
+
 '''
 python3 -m venv .venv
 source .venv/bin/activate
@@ -27,6 +28,7 @@ pip install -r requirements.txt
 '''
 
 10. Deploy the CDK Template on the terminal with these commands
+
 '''
 cdk bootstrap
 cdk deploy
