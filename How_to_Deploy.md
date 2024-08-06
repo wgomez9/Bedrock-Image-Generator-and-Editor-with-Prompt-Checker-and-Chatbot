@@ -13,13 +13,14 @@ In the docker_app folder, you will find the streamlit app.
 # To deploy:
 
 1. Manually create an S3 bucket on the AWS Console
+
 2. Download files from this GitLab and extract zip file
-3. Create a Cloud9 environment on the AWS Console
-4. Use AWS Configure on the terminal to add your AWS credentials/access keys
-5. Upload all files with the same directory structure to Cloud9
-6. Edit docker_app/config_file.py, create a STACK_NAME and a CUSTOM_HEADER_VALUE by replacing the ##PLACEHOLDER##. Replace the ##S3_PLACEHOLDER## with the name of the S3 bucket created.
-7. Edit cdk/cdk_stack.py, under s3_policy replace the ##S3_PLACEHOLDER## with your S3 bucket name.
-8. Install dependencies on the terminal with these commands
+4. Create a Cloud9 environment on the AWS Console
+5. Use AWS Configure on the terminal to add your AWS credentials/access keys
+6. Upload all files with the same directory structure to Cloud9
+7. Edit docker_app/config_file.py, create a STACK_NAME and a CUSTOM_HEADER_VALUE by replacing the ##PLACEHOLDER##. Replace the ##S3_PLACEHOLDER## with the name of the S3 bucket created.
+8. Edit cdk/cdk_stack.py, under s3_policy replace the ##S3_PLACEHOLDER## with your S3 bucket name.
+9. Install dependencies on the terminal with these commands
 
 - python3 -m venv .venv
 - source .venv/bin/activate
