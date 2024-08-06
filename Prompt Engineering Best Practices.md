@@ -202,7 +202,7 @@ Example: "Portrait of a man, 85mm lens, f/1.8 aperture, soft box lighting, sligh
 ### Resources
 - [Titan G1 Prompt Engineering Best Practices Guide](https://d2eo22ngex1n9g.cloudfront.net/Documentation/User+Guides/Titan/Amazon+Titan+Image+Generator+Prompt+Engineering+Guidelines.pdf)
 
-## 🪄 Best Practices and Resources for Stability.ai SDXL 1.0 Image Generator
+## Best Practices and Resources for Stability.ai SDXL 1.0 Image Generator
 
 ### Image Generation
 - Start prompts with the subject, then add detailed imagery, environment, mood, and style
