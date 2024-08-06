@@ -37,11 +37,11 @@ Use the Prompt Analysis Tool to refine your prompts and achieve better results w
 ##Documentation
 For more information on using these models effectively:
 - Consult the AWS Bedrock documentation for detailed API information and best practices
--   General Bedrock Documentation: https://docs.aws.amazon.com/pdfs/bedrock/latest/userguide/bedrock-ug.pdf
+  - General Bedrock Documentation: https://docs.aws.amazon.com/pdfs/bedrock/latest/userguide/bedrock-ug.pdf
 - Explore the model-specific documentation for Stability.ai SDXL 1.0 Image Generator and Amazon Titan Image Generator G1
--     Stability.ai SDXL 1.0 Image Generator Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-stability-diffusion.html
--     Amazon Titan Image Generator G1 Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-titan-image.html
--     Anthropic Claude Models Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-claude.html
+  - Stability.ai SDXL 1.0 Image Generator Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-stability-diffusion.html
+  - Amazon Titan Image Generator G1 Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-titan-image.html
+  - Anthropic Claude Models Documentation: https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-claude.html
 - Experiment with different prompts and settings to understand each model's capabilities and limitations
 
 
