@@ -1,11 +1,11 @@
 class Config:
     # Stack name
     # Change this value if you want to create a new instance of the stack
-    STACK_NAME = "Bedrock-Images-Stack"
+    STACK_NAME = "##STACK_NAME_PLACEHOLDER##"
     
     # Put your own custom value here to prevent ALB to accept requests from
     # other clients that CloudFront. You can choose any random string.
-    CUSTOM_HEADER_VALUE = "Bedrock-Images-Custom-Header-Value"    
+    CUSTOM_HEADER_VALUE = "##CUSTOM_HEADER_VALUE_PLACEHOLDER##"    
     
     # ID of Secrets Manager containing cognito parameters
     # When you delete a secret, you cannot create another one immediately
@@ -14,4 +14,4 @@ class Config:
     SECRETS_MANAGER_ID = f"{STACK_NAME}ParamCognitoSecret12345"
     
     #Put in your bucket name created on the AWS Console
-    S3_BUCKET_NAME = "bedrock-images-s3"
+    S3_BUCKET_NAME = "##S3_PLACEHOLDER##"
