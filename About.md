@@ -34,7 +34,7 @@ Our Prompt Analysis is a powerful tool powered by Claude 2.0 to analyze and opti
 
 Use the Prompt Analysis Tool to refine your prompts and achieve better results with both Stability.ai SDXL 1.0 and Amazon Titan Image Generator G1.
 
-##Documentation
+## Documentation
 For more information on using these models effectively:
 - Consult the AWS Bedrock documentation for detailed API information and best practices
   - General Bedrock Documentation: https://docs.aws.amazon.com/pdfs/bedrock/latest/userguide/bedrock-ug.pdf
