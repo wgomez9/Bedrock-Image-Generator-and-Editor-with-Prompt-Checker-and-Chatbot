@@ -1,4 +1,4 @@
-# AI Image Generation Application Architecture
+# Bedrock Image Generator and Editor with Prompt Checker and Chatbot
 
 This document provides an overview of the architecture for our AI image generation application deployed on AWS.
 
