@@ -1,4 +1,4 @@
-# AI Image Generation Prompt Engineering Guide
+# Prompt Engineering: Best Practices
 
 This guide provides comprehensive techniques and best practices for crafting effective prompts for AI image generation, specifically tailored for Stability.ai SDXL 1.0 and Amazon Titan Image Generator G1.
 
