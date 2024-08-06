@@ -154,8 +154,8 @@ class CdkStack(Stack):
                                            "s3:DeleteObject",
                                        ],
                                        resources=[
-                                           f"arn:aws:s3:::bedrock-images-s3/*",
-                                           f"arn:aws:s3:::bedrock-images-s3"
+                                           f"arn:aws:s3:::##NAME OF YOUR BUCKET##/*",
+                                           f"arn:aws:s3:::##NAME OF YOUR S3 BUCKET##"
                                        ]
                                    )
                                ]
