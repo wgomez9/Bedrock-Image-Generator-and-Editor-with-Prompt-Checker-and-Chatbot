@@ -19,7 +19,7 @@ Example: "A serene mountain landscape at sunset, with snow-capped peaks reflecti
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t7.png) | ![Amazon Titan Example](docker_app/images/t8.png) |
+| ![Stability.ai Example](images/t7.png) | ![Amazon Titan Example](images/t8.png) |
 
 ### 🔍 Leverage Descriptive Language
 Use vivid, concrete words to paint a clear picture. Avoid vague terms in favor of specific, evocative language.
@@ -32,7 +32,7 @@ Example: Instead of "beautiful flower", use "a vibrant red rose with velvety pet
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t9.png) | ![Amazon Titan Example](docker_app/images/t10.png) |
+| ![Stability.ai Example](images/t9.png) | ![Amazon Titan Example](images/t10.png) |
 
 ### 🎭 Establish Tone and Atmosphere
 Set the mood through carefully chosen words that reflect the desired emotional context or style of the image.
@@ -45,7 +45,7 @@ Example: "A melancholic scene of an abandoned amusement park on a foggy autumn m
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t11.png) | ![Amazon Titan Example](docker_app/images/t12.png) |
+| ![Stability.ai Example](images/t11.png) | ![Amazon Titan Example](images/t12.png) |
 
 ### 🧩 Structure for Clarity
 Organize your prompt logically for better interpretation by the AI:
@@ -57,7 +57,7 @@ Example: "Portrait of a young woman: red hair, green eyes | Wearing: vintage 195
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t13.png) | ![Amazon Titan Example](docker_app/images/t14.png) |
+| ![Stability.ai Example](images/t13.png) | ![Amazon Titan Example](images/t14.png) |
 
 ### 🚫 Utilize Negative Prompts
 Specify what you don't want to see in the image. This helps refine the output by explicitly excluding unwanted elements.
@@ -99,7 +99,7 @@ Example: "A cityscape in the style of Van Gogh's 'Starry Night', rendered as a d
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t15.png) | ![Amazon Titan Example](docker_app/images/t16.png) |
+| ![Stability.ai Example](images/t15.png) | ![Amazon Titan Example](images/t16.png) |
 
 ### 📐 Include Composition Details
 Mention viewpoints and compositional elements to guide image structure.
@@ -112,7 +112,7 @@ Example: "A wide-angle shot of a bustling marketplace, with a fish-eye lens effe
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t17.png) | ![Amazon Titan Example](docker_app/images/t18.png) |
+| ![Stability.ai Example](images/t17.png) | ![Amazon Titan Example](images/t18.png) |
 
 ### 💡 Describe Lighting
 Specify lighting conditions for more control over the atmosphere and mood.
@@ -125,7 +125,7 @@ Example: "A portrait lit by candlelight, with strong chiaroscuro effects. Soft, 
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t19.png) | ![Amazon Titan Example](docker_app/images/t20.png) |
+| ![Stability.ai Example](images/t19.png) | ![Amazon Titan Example](images/t20.png) |
 
 ## 🎓 Advanced Techniques
 
@@ -138,7 +138,7 @@ Example: "(red roses:1.2) in a (crystal vase:0.8) on a (mahogany table:1.0)"
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t21.png) | ![Amazon Titan Example](docker_app/images/t22.png) |
+| ![Stability.ai Example](images/t21.png) | ![Amazon Titan Example](images/t22.png) |
 
 ### 🖌️ Style Mixing
 Combine multiple artistic styles or influences:
@@ -149,7 +149,7 @@ Example: "A portrait in the style of (Van Gogh:60%) and (Picasso:40%)"
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t23.png) | ![Amazon Titan Example](docker_app/images/t24.png) |
+| ![Stability.ai Example](images/t23.png) | ![Amazon Titan Example](images/t24.png) |
 
 ### 🧑‍💻 Technical Parameters
 Incorporate technical details for more control:
@@ -161,7 +161,7 @@ Example: "Portrait of a man, 85mm lens, f/1.8 aperture, soft box lighting, sligh
 
 | Stability.ai SDXL Image Generator 1.0 | Amazon Titan Image Generator G1 |
 |:---:|:---:|
-| ![Stability.ai Example](docker_app/images/t25.png) | ![Amazon Titan Example](docker_app/images/t26.png) |
+| ![Stability.ai Example](images/t25.png) | ![Amazon Titan Example](images/t26.png) |
 
 ## 🦾 Best Practices for Amazon Titan Image Generator
 
@@ -237,7 +237,7 @@ Example: "Portrait of a man, 85mm lens, f/1.8 aperture, soft box lighting, sligh
 
 ## Sampler vs Step Comparison
 
-![Sampler vs Step Grid](docker_app/images/grid.png)
+![Sampler vs Step Grid](images/grid.png)
 *Sampler vs Step Grid Comparison. Settings: 1024x1024, Seed 1, CFG Scale 7. Negative text prompt empty. CLIP Guidance Preset and Style Preset None.*
 
 > Ancestral samplers had more image variation. Noticeable jump from 20 to 50 steps with non-ancestral models having significant diminishing returns. Take this into account when considering taking an image to a premium price point.
