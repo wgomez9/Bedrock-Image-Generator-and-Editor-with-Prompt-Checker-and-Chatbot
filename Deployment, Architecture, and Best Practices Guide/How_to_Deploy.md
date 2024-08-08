@@ -52,8 +52,4 @@ Execute in the terminal:
 - Connect to the CloudFront distribution URL using a Firefox browser
 - Log in with your Cognito user credentials
 
-### Note
-This demo was developed on an AWS Cloud9 m5.24xlarge instance with Amazon Linux 2023, but should be compatible with other configurations.
-14. From your Firefox browser, connect to the CloudFront distribution url.
-15. Log in to the Streamlit app with the user you have created in Cognito.
 
