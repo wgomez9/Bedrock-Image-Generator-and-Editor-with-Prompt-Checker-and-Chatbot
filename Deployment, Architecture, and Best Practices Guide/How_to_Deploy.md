@@ -52,4 +52,7 @@ Execute in the terminal:
 - Connect to the CloudFront distribution URL using a Firefox browser
 - Log in with your Cognito user credentials
 
+### Note
+If you are trying to re-deploy after editing a part of the code, suggestion is to delete the cdk.out folder. If Cloud9 runs out of space, enter command 'docker system prune -a'.
+
 
