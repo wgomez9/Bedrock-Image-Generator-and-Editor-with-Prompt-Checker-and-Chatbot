@@ -198,7 +198,7 @@ Moreover, Titan Image Generator G1 V2 has recently been released. This demo is r
 
 For Stability, there is news that SDXL 3.0 is coming out to Bedrock soon, so consider updating the code once that is released. 
 
-According to Titan documentation, to remove objects during the inpainting editing step, you leave the text prompt empty. However, in this demo, you cannot generate an image unless a text prompt is inputed. To fix this, you will need to go back into the code such as changing the model invocation and generate button conditions fromm
+According to Titan documentation, to remove objects during the inpainting editing step, you leave the text prompt empty. However, in this demo, you cannot generate an image unless a text prompt is inputed. To fix this, you will need to go back into the code such as changing the model invocation and generate button conditions from
     
     if st.button("Apply Editing", disabled=not prompt, help="Missing text prompt" if not prompt else ""):
 
