@@ -49,7 +49,7 @@ Execute in the terminal:
 - Create a user in the Cognito User Pool via the AWS Console
 
 8. **Access Application**
-- Connect to the CloudFront distribution URL using a Firefox browser
+- Connect to the CloudFront distribution URL using a Firefox browser (I found some issues with getting the editing image canvas to show on Chrome and other browsers. Consider deleting cookies or remvoing extensions that could stop the canvas from showing).
 - Log in with your Cognito user credentials
 
 ### Note
